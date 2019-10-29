@@ -21,7 +21,7 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "D:/Downloads/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/3.15.19080502-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "D:/Documents/Cube World/Mods/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/3.15.19080502-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.23.28105/bin/HostX64/x64/cl.exe 
@@ -45,37 +45,37 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
-The CXX compiler identification is MSVC, found in "D:/Downloads/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/3.15.19080502-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+The CXX compiler identification is MSVC, found in "D:/Documents/Cube World/Mods/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/3.15.19080502-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: D:/Downloads/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Documents/Cube World/Mods/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2ba42 && [1/2] Building C object CMakeFiles\cmTC_2ba42.dir\testCCompiler.c.obj
-[2/2] Linking C executable cmTC_2ba42.exe
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_fe301 && [1/2] Building C object CMakeFiles\cmTC_fe301.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_fe301.exe
 
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: D:/Downloads/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Documents/Cube World/Mods/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_31e7a && [1/2] Building C object CMakeFiles\cmTC_31e7a.dir\CMakeCCompilerABI.c.obj
-[2/2] Linking C executable cmTC_31e7a.exe
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d7534 && [1/2] Building C object CMakeFiles\cmTC_d7534.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_d7534.exe
 
 
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: D:/Downloads/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Documents/Cube World/Mods/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1c4bc && [1/2] Building CXX object CMakeFiles\cmTC_1c4bc.dir\testCXXCompiler.cxx.obj
-[2/2] Linking CXX executable cmTC_1c4bc.exe
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_52f63 && [1/2] Building CXX object CMakeFiles\cmTC_52f63.dir\testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_52f63.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: D:/Downloads/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/CMakeTmp
+Change Dir: D:/Documents/Cube World/Mods/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4beba && [1/2] Building CXX object CMakeFiles\cmTC_4beba.dir\CMakeCXXCompilerABI.cpp.obj
-[2/2] Linking CXX executable cmTC_4beba.exe
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a1416 && [1/2] Building CXX object CMakeFiles\cmTC_a1416.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_a1416.exe
 
 
 

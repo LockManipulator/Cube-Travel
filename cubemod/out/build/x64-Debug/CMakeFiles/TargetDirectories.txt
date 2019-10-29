@@ -1,3 +1,3 @@
-D:/Downloads/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/cubemod.dir
-D:/Downloads/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-D:/Downloads/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Documents/Cube World/Mods/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/cubemod.dir
+D:/Documents/Cube World/Mods/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Documents/Cube World/Mods/Cubetravel/cubemod/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
